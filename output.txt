@@ -1,19 +1,18 @@
 Microsoft Windows [Version 10.0.17763.379]
 (c) 2018 Microsoft Corporation. All rights reserved.
 
-C:\Users\Administrator\Source\Repos\githubC2\githubC2\bin\x64\Release\net8.0>cmd /k ipconfig
-
-Windows IP Configuration
-
-
-Ethernet adapter Ethernet0:
-
-   Connection-specific DNS Suffix  . : 
-   Link-local IPv6 Address . . . . . : fe80::901c:423:f164:ccfb%5
-   IPv4 Address. . . . . . . . . . . : 10.10.10.79
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 10.10.10.254
-
+C:\Users\Administrator\Source\Repos\githubC2\githubC2\bin\x64\Release\net8.0>cmd /k curl ipinfo.io
+{
+  "ip": "117.6.161.132",
+  "city": "Hanoi",
+  "region": "Hanoi",
+  "country": "VN",
+  "loc": "21.0245,105.8412",
+  "org": "AS7552 Viettel Group",
+  "postal": "10000",
+  "timezone": "Asia/Bangkok",
+  "readme": "https://ipinfo.io/missingauth"
+}
 C:\Users\Administrator\Source\Repos\githubC2\githubC2\bin\x64\Release\net8.0>
 C:\Users\Administrator\Source\Repos\githubC2\githubC2\bin\x64\Release\net8.0>
 C:\Users\Administrator\Source\Repos\githubC2\githubC2\bin\x64\Release\net8.0>
