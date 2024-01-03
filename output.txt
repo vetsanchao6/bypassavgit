@@ -1,1 +1,10 @@
+Microsoft Windows [Version 10.0.17763.379]
+(c) 2018 Microsoft Corporation. All rights reserved.
 
+C:\Users\Administrator\Source\Repos\githubC2\githubC2\bin\x64\Release\net8.0>cmd /k 
+C:\Users\Administrator\Source\Repos\githubC2\githubC2\bin\x64\Release\net8.0>whoami
+win-u5ec0d522sl\administrator
+
+C:\Users\Administrator\Source\Repos\githubC2\githubC2\bin\x64\Release\net8.0>
+C:\Users\Administrator\Source\Repos\githubC2\githubC2\bin\x64\Release\net8.0>
+C:\Users\Administrator\Source\Repos\githubC2\githubC2\bin\x64\Release\net8.0>
